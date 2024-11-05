@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi, i'm Rudi, and i am an DevOps Engineer 
+
+- 🌱 I’m currently learning Swift, love the idea to make iOS apps
+- 📫 How to reach me: [rudi.lamarca@gmail.com](mailto:rudi.lamarca@gmail.com)
 
 <!--
 **rudilamarca/rudilamarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
