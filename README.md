@@ -1,6 +1,7 @@
 ## 👋 Hi, i'm Rudi, and i am an DevOps Engineer 
 
 - 🌱 I’m currently learning Swift, love the idea to make iOS apps
+- 🌱 I’m currently learning Python, love the idea to make something AI related
 - 📫 How to reach me: [rudi.lamarca@gmail.com](mailto:rudi.lamarca@gmail.com)
 
 <!--
